@@ -1,0 +1,7 @@
+D:\opp sublect\opp lap03\opp lap03\bin\Debug\opp lap03.exe.config
+D:\opp sublect\opp lap03\opp lap03\bin\Debug\opp lap03.exe
+D:\opp sublect\opp lap03\opp lap03\bin\Debug\opp lap03.pdb
+D:\opp sublect\opp lap03\opp lap03\obj\Debug\opp lap03.csproj.AssemblyReference.cache
+D:\opp sublect\opp lap03\opp lap03\obj\Debug\opp lap03.csproj.CoreCompileInputs.cache
+D:\opp sublect\opp lap03\opp lap03\obj\Debug\opp lap03.exe
+D:\opp sublect\opp lap03\opp lap03\obj\Debug\opp lap03.pdb
